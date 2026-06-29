@@ -169,7 +169,7 @@ Let's connect professionally.
 
 <td align="center" width="220">
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://ayush-portfolio-kcc.netlify.app/">
 
 <img src="https://img.icons8.com/fluency/96/domain.png" width="70"/><br><br>
 
