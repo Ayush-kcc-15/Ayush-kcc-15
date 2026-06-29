@@ -59,17 +59,6 @@ Become a Software Development Engineer and build impactful products.
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-| 🚀 Project | Description | Tech |
-|------------|-------------|------|
-| **Attendify** | Smart Attendance Management Platform with Student & Teacher Dashboard | React • Node.js • MongoDB |
-| **Agree2Met** | Modern SaaS platform for creating and managing digital agreements securely | React • Node.js • MongoDB |
-| **Portfolio Website** | Responsive developer portfolio showcasing projects and achievements | React • Tailwind CSS |
-| **AI Chatbot** | AI-powered chatbot with a modern conversational interface | JavaScript • API |
-| **Amazon Clone** | Responsive e-commerce frontend inspired by Amazon | HTML • CSS • JavaScript |
 
 ---
 
